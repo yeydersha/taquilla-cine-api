@@ -1,0 +1,12 @@
+﻿/target/
+/.settings/
+.project
+.classpath
+.idea/
+*.iml
+.env
+*.log
+/application-local.properties
+/.env
+# Redundant with iniciar.bat
+start-neon.ps1
